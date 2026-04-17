@@ -1,0 +1,10 @@
+build/
+data/ca_key.hex
+data/tofu.json
+*.o
+*.a
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+bin/

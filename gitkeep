@@ -1,0 +1,6 @@
+# This directory stores runtime-generated files:
+#   ca_key.hex   — CA private key (Act 3, generated on first run)
+#   ca_pub.hex   — CA public key  (Act 3, shared between Alice and Bob)
+#   tofu.json    — Trust-On-First-Use fingerprint store
+#
+# ca_key.hex is gitignored (treat it like a private key).
